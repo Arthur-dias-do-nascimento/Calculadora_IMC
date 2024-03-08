@@ -1,4 +1,4 @@
-# Calculadora_IMC
+# Calculadora IMC
 Uma calculadora IMC que calcula seu IMC com base na sua altura e peso.
 
 ## Linguagens utilizadas
@@ -8,3 +8,6 @@ Uma calculadora IMC que calcula seu IMC com base na sua altura e peso.
  <li>CSS</li>
  <li>JavaScript</li>
 </ul>
+
+## Link
+https://arthur-dias-do-nascimento.github.io/Calculadora_IMC/
